@@ -1,0 +1,13 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>root</groupId>
+	<artifactId>repository</artifactId>
+	<packaging>ejb</packaging>
+	<version>1.0</version>
+	<name>enterprise java beans</name>
+	<parent>
+		<groupId>root</groupId>
+		<artifactId>project</artifactId>
+		<version>1.0</version>
+	</parent>
+</project>
